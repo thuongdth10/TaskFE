@@ -1,0 +1,87 @@
+* {
+  font-family: "Fira Sans", sans-serif;
+  margin: 0px;
+  padding: 0px;
+}
+._title h1 {
+  color: #0b6890;
+  font-size: 45px;
+  margin-bottom: 25px;
+  margin-top: 290px;
+}
+._title p {
+  font-size: 15px;
+  color: #999999;
+  margin-bottom: 30px;
+}
+._title .author {
+  color: #b5b5b5;
+}
+._content02 {
+  margin-top: 70px;
+}
+._content02 ._img {
+  width: 100%;
+}
+._content02 ._imgBe {
+  margin-top: -10px;
+}
+._content02 ._icon {
+  margin-left: 16px;
+  width: 600px;
+  height: 52px;
+}
+._content02 ._icon .description {
+  float: right;
+  color: #989898;
+  margin-right: 50px;
+}
+._content02 .icon01 {
+  color: #b5b5b5;
+  padding: 20px;
+  font-size: 22px;
+}
+
+._content02 .icon02 {
+  color: #116c93;
+  font-size: 22px;
+}
+
+._img {
+  margin-left: 15px;
+}
+._text {
+  font-size: 18x;
+  color: #b5b5b5;
+}
+._button {
+  width: 271px;
+  height: 64px;
+  text-transform: uppercase;
+  color: #0b6890;
+}
+._root {
+  margin-top: 149px;
+}
+._textRoot {
+  color: #b5b5b5;
+  margin-left: 41px;
+  margin-bottom: -5px;
+}
+.footer {
+    position: relative;
+}
+img.b1{
+position: absolute;
+top: 50%;
+left: 50%;
+margin-top: -20px;
+margin-left: -25px;
+}
+.footer .b2{
+position: absolute;
+top: 65%;
+left: 44%;
+color: white;
+font-size: 20px;
+}
