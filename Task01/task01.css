@@ -2,7 +2,7 @@
   font-family: "Fira Sans", sans-serif;
   margin: 0px;
   padding: 0px;
-}
+    }
 ._title h1 {
   color: #0b6890;
   font-size: 45px;
@@ -70,6 +70,9 @@
 }
 .footer {
     position: relative;
+}
+.footer img.daddy{
+    width: 100%;
 }
 img.b1{
 position: absolute;
